@@ -14,3 +14,6 @@ print("----- streaming request -----")
 #         continue
 #     print(chunk.choices[0].delta.content, end="")
 # print()
+
+
+# text
